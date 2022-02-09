@@ -1237,17 +1237,17 @@ Untuk Menampilkan Menu Bot
 _⫹⫺🎯Library : Baileys-script_
 _⫹⫺🍰Version : 4.2.8_
 _⫹⫺🍧Language : Javascript_
-_⫹⫺📯Author : Helga Zex's_
+_⫹⫺📯Author : FiraaCnss's_
 _⫹⫺💬Time : ${timeWib} WIB_
 
 ┌❏ FREE REST API's
 │◦➛ https://api-helgazex.herokuapp.com
 └❏ MY ALL SOSMED
-│◦➛ https://github.com/HelgaIlham
-│◦➛ https://tiktok.com/@ilhamgz_20
-│◦➛ https://bit.ly/HelgaOfficials
-│◦➛ https://bit.ly/Helgazex
-│◦➛ https://discord.gg/6EenvMEg7k
+│◦➛ https://github.com/Firaachanzz
+│◦➛ https://tiktok.com/@Xrzzz
+│◦➛ https://bit.ly/FiraA
+│◦➛ https://bit.ly/Firaachanzz
+│◦➛ https://discord.gg/6EmnvMEg7k
 └❏  
 
 ┌❏ INDONESIA TIME
@@ -1626,13 +1626,13 @@ _⫹⫺💬Time : ${timeWib} WIB_
 │ • ${prefix}attp
 ╰────
 `
-sendButDocument(from, `${menu}`, "Big Thanks To\n\nAllah SWT\nMy Parrent\nZukaChan\nHelga Ilham\nAgus\nAll Creator Bot Wa", fs.readFileSync('./helga.jpg'), {mimetype:Mimetype.pdf, thumbnail:ofrply, filename:`𝚉𝚞𝚔𝚊𝙲𝚑𝚊𝚗 𝚅3.0.0`}, [{buttonId:`about`,buttonText:{displayText:'About 🐋'},type:1},{buttonId:`simple`,buttonText:{displayText:'Simple Menu 🐋'},type:1}], {quoted:fmen, contextInfo: { mentionedJid: [dtod,otod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`𝚉𝚞𝚔𝚊𝙱𝚘𝚝𝚝 𝙼𝚊𝚍𝚎 𝙱𝚢 𝙷𝚎𝚕𝚐𝚊`,body:`𝙼𝚊𝚍𝚎 𝙱𝚢 𝙷𝚎𝚕𝚐𝚊`,mediaType:"2",thumbnail:ofrply,mediaUrl:`https://youtu.be/bF7K7KL7dVY`}}})
+sendButDocument(from, `${menu}`, "Big Thanks To\n\nAllah SWT\nMy Parrent\nF I R A\nFIRACNS\nAgus\nAll Creator Bot Wa", fs.readFileSync('./helga.jpg'), {mimetype:Mimetype.pdf, thumbnail:ofrply, filename:`F I R A B O T 𝚅3.0.0`}, [{buttonId:`about`,buttonText:{displayText:'About 🐋'},type:1},{buttonId:`simple`,buttonText:{displayText:'Simple Menu 🐋'},type:1}], {quoted:fmen, contextInfo: { mentionedJid: [dtod,otod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`𝚉𝚞𝚔𝚊𝙱𝚘𝚝𝚝 𝙼𝚊𝚍𝚎 𝙱𝚢 𝙷𝚎𝚕𝚐𝚊`,body:`𝙼𝚊𝚍𝚎 𝙱𝚢 𝙷𝚎𝚕𝚐𝚊`,mediaType:"2",thumbnail:ofrply,mediaUrl:`https://youtu.be/bF7K7KL7dVY`}}})
 break
 case 'simple':
  stod = `${sender}`
  listMsg = {
  buttonText: 'Simple Menu Zuka',
- footerText: '*ZukaBase*',
+ footerText: '*F I R A B O T*',
  description: `Hai Kak @${stod.split('@')[0]}\nGunakan Bot Dengan Bijak Yaa..\n\n️💬 ${tampilUcapan}\n⏰ Jam : ${jmn}\n🌄 Hari : ${week} ${weton}\n🗓️ Tanggal : ${calender}\n`,
  sections: [
                      {
@@ -1746,10 +1746,10 @@ case 'groupbot':
 
 My Official Group⛱️
 
-🧶 https://chat.whatsapp.com/Kw69Oel34Nd0JuluvFNVKt
-🧶 https://chat.whatsapp.com/IlpQRKWDZed0GgVHmYJUbl
-🧶 https://chat.whatsapp.com/DYdn8o7Wrho0K8R78IqTbB
-🧶 https://chat.whatsapp.com/FNUkk0gLdc2Ik4fZr2HdHc
+🧶 https://chat.whatsapp.com/J5AdV7KNsesJNvxT2DrRvY
+🧶 https://chat.whatsapp.com/J5AdV7KNsesJNvxT2DrRvY
+🧶 https://chat.whatsapp.com/J5AdV7KNsesJNvxT2DrRvY
+🧶 https://chat.whatsapp.com/J5AdV7KNsesJNvxT2DrRvY
 
 Zuka Group Script Base⛱️
 
@@ -3919,7 +3919,7 @@ RAM • vCpu • SSD • NOM
 Note : Free Peng Install An Google Chrome
 
 Minat?Chat
-https://wa.me/6281398860278`
+https://wa.me/6283830815715`
 				sendButLocation(from, `${memek}`, `Subscribe Channel\nHelga Zex!!`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}owner`,buttonText:{displayText:'Done 🌌'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
 				break
 case 'jasrun':
