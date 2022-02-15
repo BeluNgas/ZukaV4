@@ -1237,17 +1237,17 @@ Untuk Menampilkan Menu Bot
 _⫹⫺🎯Library : Baileys-script_
 _⫹⫺🍰Version : 4.2.8_
 _⫹⫺🍧Language : Javascript_
-_⫹⫺📯Author : FiraaCnss's_
+_⫹⫺📯Author : Bellu's_
 _⫹⫺💬Time : ${timeWib} WIB_
 
 ┌❏ FREE REST API's
 │◦➛ https://api-helgazex.herokuapp.com
 └❏ MY ALL SOSMED
-│◦➛ https://github.com/Firaachanzz
-│◦➛ https://tiktok.com/@Xrzzz
-│◦➛ https://bit.ly/FiraA
-│◦➛ https://bit.ly/Firaachanzz
-│◦➛ https://discord.gg/6EmnvMEg7k
+│◦➛ https://github.com/BeluNgas
+│◦➛ -https://youtube.com/channel/UCOIWspCK8CIaWfF59CQXtag
+│◦➛ -
+│◦➛ -
+│◦➛ -
 └❏  
 
 ┌❏ INDONESIA TIME
@@ -1626,13 +1626,13 @@ _⫹⫺💬Time : ${timeWib} WIB_
 │ • ${prefix}attp
 ╰────
 `
-sendButDocument(from, `${menu}`, "Big Thanks To\n\nAllah SWT\nMy Parrent\nF I R A\nFIRACNS\nAgus\nAll Creator Bot Wa", fs.readFileSync('./helga.jpg'), {mimetype:Mimetype.pdf, thumbnail:ofrply, filename:`F I R A B O T 𝚅3.0.0`}, [{buttonId:`about`,buttonText:{displayText:'About 🐋'},type:1},{buttonId:`simple`,buttonText:{displayText:'Simple Menu 🐋'},type:1}], {quoted:fmen, contextInfo: { mentionedJid: [dtod,otod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`𝚉𝚞𝚔𝚊𝙱𝚘𝚝𝚝 𝙼𝚊𝚍𝚎 𝙱𝚢 𝙷𝚎𝚕𝚐𝚊`,body:`𝙼𝚊𝚍𝚎 𝙱𝚢 𝙷𝚎𝚕𝚐𝚊`,mediaType:"2",thumbnail:ofrply,mediaUrl:`https://youtu.be/bF7K7KL7dVY`}}})
+sendButDocument(from, `${menu}`, "Big Thanks To\n\nAllah SWT\nMy Parrent\nI L H A M\nHelga\nAgus\nBellu\nAll Creator Bot Wa", fs.readFileSync('./helga.jpg'), {mimetype:Mimetype.pdf, thumbnail:ofrply, filename:`B E L L U B O T 𝚅3.0.0`}, [{buttonId:`about`,buttonText:{displayText:'About 🐋'},type:1},{buttonId:`simple`,buttonText:{displayText:'Simple Menu 🐋'},type:1}], {quoted:fmen, contextInfo: { mentionedJid: [dtod,otod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`𝚉𝚞𝚔𝚊𝙱𝚘𝚝𝚝 𝙼𝚊𝚍𝚎 𝙱𝚢 𝙷𝚎𝚕𝚐𝚊`,body:`𝙼𝚊𝚍𝚎 𝙱𝚢 𝙷𝚎𝚕𝚐𝚊`,mediaType:"2",thumbnail:ofrply,mediaUrl:`https://youtu.be/bF7K7KL7dVY`}}})
 break
 case 'simple':
  stod = `${sender}`
  listMsg = {
  buttonText: 'Simple Menu Zuka',
- footerText: '*F I R A B O T*',
+ footerText: '*B E L L U B O T*',
  description: `Hai Kak @${stod.split('@')[0]}\nGunakan Bot Dengan Bijak Yaa..\n\n️💬 ${tampilUcapan}\n⏰ Jam : ${jmn}\n🌄 Hari : ${week} ${weton}\n🗓️ Tanggal : ${calender}\n`,
  sections: [
                      {
@@ -1646,7 +1646,7 @@ case 'simple':
                            },
                            {
                               "title": "Nsfww Menu🧧",
-                              "description": 'Nsfw Menu, Anime Haram',
+                              "description": 'Nsfw Menu, Anime Haram Elu juga haram aowkwk',
                               "rowId": ""
                               
                            },
@@ -1688,7 +1688,7 @@ case 'simple':
                            },
                            {
                               "title": "Asupan Menu🏖️️",
-                              "description": 'Menu Yang Sangad Tydck Ramah',
+                              "description": 'Menu Yang Sangad Tydck Ramah dan ahh Yameteh',
                               "rowId": ""
                               
                            },
@@ -1718,13 +1718,13 @@ case 'simple':
                            },
                            {
                               "title": "Dosaa Menu️️🪙",
-                              "description": 'Menu Penambah Dosa!',
+                              "description": 'Menu Penambah Dosa!jan di klik adick adick',
                               "rowId": ""
                               
                            },
                            {
                               "title": "Funny Menu️️🪅",
-                              "description": 'Menu Kegabutan..',
+                              "description": 'Menu Kegabutan dan Aowkwkwkkw..',
                               "rowId": ""
                               
                            },
@@ -1786,7 +1786,7 @@ case 'nsfww':
        yes = '```'
        stst = await helga.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
-       menu = `Hai Kak ${pushname}, ${tampilUcapan}
+       menu = `Hai Kak  ${pushname} Tobatlah, ${tampilUcapan}
 
     *「 Nsfw Menu 」*
     
@@ -2152,7 +2152,7 @@ case 'dosaa':
        yes = '```'
        stst = await helga.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
-       menu = `Hai Kak ${pushname}, ${tampilUcapan}
+       menu = `Hai Kak ${pushname} semoga tobat, ${tampilUcapan}
 
     *「 Dosa Menu 」*
     
