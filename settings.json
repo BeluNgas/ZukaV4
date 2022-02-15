@@ -1,8 +1,8 @@
 {
-"autoread": false,
-"autoplaymusic": false,
-"autocomposing": false,
-"autorecording": false,
+"autoread": true,
+"autoplaymusic": true,
+"autocomposing": true,
+"autorecording": true,
 "NamaBot":"HmmBot", 
 "NomorOwner":"601136151330",
 "Mail":"nabilhairie00@gmail.com",
