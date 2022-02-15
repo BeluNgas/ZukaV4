@@ -644,7 +644,7 @@ const ftex = {
 // VN
 const fvoc = {
 	 key: { 
-          fromMe: false,
+          fromMe: true,
 	      participant: `0@s.whatsapp.net`, ...(from ? 
 	 { remoteJid: "6281398860278-1613049930@g.us" } : {}) 
                 },
@@ -689,7 +689,7 @@ _registered.push(obj)
 fs.writeFileSync('./database/registered.json', JSON.stringify(_registered))
 }
 const checkRegisteredUser = (sender) => {
-let status = false
+let status = true
 Object.keys(_registered).forEach((i) => {
 if (_registered[i].id === sender) {
 status = false
