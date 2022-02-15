@@ -118,14 +118,14 @@ cmhit = []
 autorespon = false
 playmusic = false
 antidelete = false
-menusimpel = false
+menusimpel = true
 menuall = false
 baterai = {
 battery: "" || "Not detected",
 isCharge: "" || false
 }
 offline = false
-publik = false
+publik = true
 bugc = true
 waktuafk = 'Nothing'
 alasanafk = 'Nothing'
@@ -692,7 +692,7 @@ const checkRegisteredUser = (sender) => {
 let status = false
 Object.keys(_registered).forEach((i) => {
 if (_registered[i].id === sender) {
-status = true
+status = false
 }
 })
 return status
